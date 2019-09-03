@@ -6,7 +6,7 @@ Datum: 30. / 31. August 2019
 
 ## Sessionergebnisse & Slides
 
-Hier sammeln wir die Ergebnisse eurer Sessions sowie die Slides, falls ihr welche verwendet habt – ihr findet sie im Ordner [Sessions](https://github.com/POCamp/POCamp19/Sessions). Das gesammelte Feedback möchten wir euch in Kürze ebenfalls zur Verfügung stellen.
+Hier sammeln wir die Ergebnisse eurer Sessions sowie die Slides, falls ihr welche verwendet habt – ihr findet sie im Ordner [Sessions](https://github.com/pocamp/POCamp19/tree/master/Sessions). Das gesammelte Feedback möchten wir euch in Kürze ebenfalls zur Verfügung stellen.
 
 ## Das ist passiert
 
