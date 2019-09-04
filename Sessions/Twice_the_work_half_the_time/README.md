@@ -24,6 +24,12 @@ Hier waren die Punkte, die wir nicht behandeln konnten.
 
 ## Arbeitsgruppe: Ignorieren von Prioritäten
 
+![Ignorieren von Prioritäten](flipchart-ignorieren-von-prios.jpg)
+
 ## Arbeitsgruppe: Mehr liefern
 
+![Mehr liefern](flipchart-mehr-liefern.jpg)
+
 ## Arbeitsgruppe: Das Nachbarteam macht etwas ähnliches, wollt Ihr nicht Synergien schaffen?
+
+![Nachbarteam und Synergien schaffen](flipchart-nachbarteam-synergien.jpg)
