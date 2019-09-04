@@ -8,6 +8,8 @@ Trotzdem schallt uns diese Forderung immer wieder entgegen. Mit dieser Session h
 
 Was soll ich sagen: In drei Arbeitsgruppen konnten wir innerhalb der Session Timebox super Ergebnisse erreichen. Diese findet Ihr hier in den Impressionen wieder.
 
+Falls Ihr weitere Fragen, weitere Ideen oder Anmerkungen habt, so freue ich mich über eine Nachricht an bjoern.schotte@mayflower.de
+
 ## Wie war das Vorgehen in der Session?
 
 Zunächst haben wir in einem Brainwriting auf PostIts aufgeschrieben, welcher Forderungen / Herausforderungen auf Euch im Kontext von „Twice the work in half the time“ zukommen.
