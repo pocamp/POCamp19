@@ -1,6 +1,6 @@
 # Twice the work in half the time
 
-Was für ein verführerischer Buchtitel, den Jeff Sutherland uns da präsentiert hatte, oder?
+Was für ein verführerischer [Buchtitel](https://www.amazon.de/Scrum-Doing-Twice-Work-Half/dp/038534645X), den Jeff Sutherland uns da präsentiert hatte, oder?
 
 Doch die Trauer unter uns Product Ownern & Product People ist sehr groß. Denn wir haben es häufig mit Management zu tun, die natürlich wenig Einblick darin haben, wie Softwareentwicklung denn wirklich funktioniert.
 
